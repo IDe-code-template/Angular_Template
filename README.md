@@ -1,2 +1,2 @@
 # Angular_Template
-An Boilerplate Tempale for Angular
+A Boilerplate Tempale for Angular
